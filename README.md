@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a junior gaming programming in unity and c#.
+I’m a junior game programming in unity and c#.
 
 <!--
 **mauro637/mauro637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
